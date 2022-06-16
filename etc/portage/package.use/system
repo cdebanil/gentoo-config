@@ -1,0 +1,3 @@
+sys-kernel/linux-firmware savedconfig initramfs
+sys-kernel/gentoo-kernel savedconfig
+app-admin/sysklogd logrotate
